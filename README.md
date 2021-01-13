@@ -8,6 +8,7 @@
 
 $ pkg install git<br>
 $ pkg install curl<br>
+$ python2 -m pip install fake-useragent<br>
 $ git clone https://github.com/Mr-XsZ/Dark-Fb<br>
 $ cd Dark-Fb<br>
 $ bash install.sh<br><br>
